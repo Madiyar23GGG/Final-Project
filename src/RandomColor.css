@@ -1,0 +1,20 @@
+
+.div1{
+
+    background-color: rgb(255, 213, 0);
+    width: 180px;
+    height: 160px;
+
+}
+
+button{
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+    margin-left: 20%;
+}
+
+div{
+    margin-top: 15%;
+   margin-left: 16%;
+}

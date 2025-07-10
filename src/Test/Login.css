@@ -1,0 +1,53 @@
+
+.Button1{
+    background-color: deepskyblue;
+    color: white;
+    margin-left: 37%;
+    padding: 10px;
+    padding-left: 140px;
+    padding-right: 140px;
+    margin-top: 190px;
+    border-radius: 5px;
+}
+
+.Button2{
+    background-color: rgb(255, 255, 255);
+    color: deepskyblue;
+    margin-left: 37%;
+    padding: 10px;
+    padding-left: 115px;
+    padding-right: 110px;
+    border-radius: 5px;
+
+}
+
+.div2{
+    text-align: center;
+    margin-top: 120px;
+}
+
+.button3{
+    background-color: deepskyblue;
+    color: white;
+        padding: 10px;
+    padding-left: 122px;
+    padding-right: 122px;
+    border-radius: 5px;
+
+}
+.button4{
+    background-color: deepskyblue;
+    color: white;
+        padding: 10px;
+    padding-left: 115px;
+    padding-right: 110px;
+    border-radius: 5px;
+
+}
+
+input{
+    padding: 7px;
+    padding-left: 60px;
+    padding-right: 60px;
+    border-radius: 5px;
+}

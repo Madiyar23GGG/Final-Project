@@ -1,0 +1,45 @@
+.header{
+  background-color: rgb(80, 80, 255);
+  color: white;
+  text-align: center;
+}
+body{
+  background-color: rgb(192, 192, 192);
+}
+
+.div1{
+  display: flex;
+  margin-left: 30%;
+
+}
+
+nav{
+  background-color: rgb(255, 255, 255);
+  padding: 7px;
+}
+
+a{
+  margin-left: 60px;
+  color: black;
+  
+}
+
+
+.blog-Post{
+  background-color: white;
+}
+
+.author-detalis{
+  background-color: white;
+
+}
+
+.footer{
+  background-color: rgb(93, 0, 255);
+  text-align: center;
+}
+
+
+
+
+

@@ -1,0 +1,23 @@
+.div1{
+    text-align: center;
+}
+
+p{
+    background-color: black;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 180px;
+    margin-right: 180px;
+        font-size: 20px;
+
+    
+}
+
+button{
+    background-color: grey;
+    padding: 30px;
+    padding-left: 70px;
+    padding-right: 70px;
+    font-size: 20px;
+}
