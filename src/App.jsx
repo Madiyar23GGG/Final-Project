@@ -65,5 +65,5 @@ function setchotam() {
     )
 
 }
-
+  
 export default App;
